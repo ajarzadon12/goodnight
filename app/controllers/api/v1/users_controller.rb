@@ -22,12 +22,6 @@ module Api
           render json: { message: unfollow[:message] }, status: :not_found
         end
       end
-
-      private
-
-      def get_current_user
-        @current_user = User.find(params[:id])
-      end
     end
   end
 end

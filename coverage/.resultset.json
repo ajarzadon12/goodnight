@@ -209,11 +209,21 @@
           null
         ]
       },
+      "/Users/alvin/Work/others/goodnight/spec/factories/clock_ins.rb": {
+        "lines": [
+          1,
+          1,
+          8,
+          10,
+          null,
+          null
+        ]
+      },
       "/Users/alvin/Work/others/goodnight/spec/factories/user.rb": {
         "lines": [
           1,
           1,
-          11,
+          30,
           null,
           null
         ]
@@ -228,6 +238,53 @@
           1,
           1,
           null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/alvin/Work/others/goodnight/app/models/clock_in.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          3,
+          null,
+          null,
+          3,
+          3,
+          null
+        ]
+      },
+      "/Users/alvin/Work/others/goodnight/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/alvin/Work/others/goodnight/spec/models/user_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          null,
+          1,
+          1,
+          null,
           null,
           null
         ]
@@ -239,13 +296,201 @@
           1,
           null,
           1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
-      "/Users/alvin/Work/others/goodnight/app/models/application_record.rb": {
+      "/Users/alvin/Work/others/goodnight/spec/services/clock_in_service/create_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          3,
+          3,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/alvin/Work/others/goodnight/app/services/clock_in_service/create.rb": {
         "lines": [
           1,
           1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/alvin/Work/others/goodnight/app/services/application_service.rb": {
+        "lines": [
+          1,
+          1,
+          12,
+          null,
+          null
+        ]
+      },
+      "/Users/alvin/Work/others/goodnight/spec/services/clock_in_service/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/alvin/Work/others/goodnight/app/services/clock_in_service/index.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/alvin/Work/others/goodnight/spec/services/clock_in_service/show_weekly_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          4,
+          4,
+          2,
+          null,
+          4,
+          4,
+          4,
+          4,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/alvin/Work/others/goodnight/app/services/clock_in_service/show_weekly.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          null,
+          null,
+          1,
+          3,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          2,
+          null,
+          2,
+          null,
+          2,
+          null,
+          null,
+          2,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -309,15 +554,6 @@
           null,
           null,
           null,
-          null,
-          null
-        ]
-      },
-      "/Users/alvin/Work/others/goodnight/app/services/application_service.rb": {
-        "lines": [
-          1,
-          1,
-          6,
           null,
           null
         ]
@@ -406,6 +642,6 @@
         ]
       }
     },
-    "timestamp": 1679331001
+    "timestamp": 1679340495
   }
 }
